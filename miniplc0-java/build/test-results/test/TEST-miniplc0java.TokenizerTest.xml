@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="miniplc0java.TokenizerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-26T01:09:43" hostname="DESKTOP-V7TO14A" time="0.127">
+  <properties/>
+  <testcase name="testTokenizer" classname="miniplc0java.TokenizerTest" time="0.127"/>
+  <system-out><![CDATA[UnsignedInteger, 123333 Pos(row: 0, col: 0) Pos(row: 0, col: 6)
+Identifier, be Pos(row: 1, col: 0) Pos(row: 1, col: 2)
+Begin, Begin Pos(row: 1, col: 3) Pos(row: 1, col: 8)
+Identifier, IF Pos(row: 1, col: 9) Pos(row: 1, col: 11)
+Identifier, ahss Pos(row: 2, col: 0) Pos(row: 2, col: 4)
+MultiplicationSign, * Pos(row: 2, col: 4) Pos(row: 2, col: 5)
+MultiplicationSign, * Pos(row: 2, col: 5) Pos(row: 2, col: 6)
+MultiplicationSign, * Pos(row: 2, col: 6) Pos(row: 2, col: 7)
+LeftBracket, ( Pos(row: 2, col: 7) Pos(row: 2, col: 8)
+Identifier, sss Pos(row: 2, col: 8) Pos(row: 2, col: 11)
+RightBracket, ) Pos(row: 2, col: 11) Pos(row: 2, col: 12)
+PlusSign, + Pos(row: 2, col: 12) Pos(row: 2, col: 13)
+UnsignedInteger, 124 Pos(row: 3, col: 0) Pos(row: 3, col: 3)
+EqualSign, = Pos(row: 3, col: 3) Pos(row: 3, col: 4)
+Identifier, jh Pos(row: 3, col: 5) Pos(row: 3, col: 7)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
